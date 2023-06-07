@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>THE WORLD OF YASH</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="header">
+        <a href="" class="logo">YASH</a>
+        <nav class="navbar">
+            <a href="#">Home</a>
+            <a href="about.html">About</a>
+            <a href="content.html">Contact</a>
+        </nav>
+    </header>
+           <section class="Home">
+           <div class="Home-content">
+            <h1>Hii I'm YASH</h1>
+            <h5>not rocking star</h5>
+            </div>
+            </section>
+            <section class="About">
+                <div class="About-content">
+                    <h3>HII EVERYONE MY NAME IS YASH KUMAR MINA AND I AM FROM RAJESTHAN.
+                        MY BRANCH IS CIVIL ENGNEERING AND MY HOBBIES ARE PLAYING CRICKET AND LEARNING 
+                        NEW THINGS.
+                    </h3>
+                </div>
+                <section class="Contact">
+                    <div class="Contact-content">
+                        <h1>
+                    </div>
+                </section>
+                "
+            </section>
+</body>
+</html>
